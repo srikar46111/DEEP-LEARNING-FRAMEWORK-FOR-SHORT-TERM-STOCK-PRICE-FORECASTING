@@ -1,0 +1,2 @@
+# DEEP-LEARNING-FRAMEWORK-FOR-SHORT-TERM-STOCK-PRICE-FORECASTING
+📈 Deep Learning Framework for Short-Term Stock Price Forecasting  This project develops a deep learning framework to forecast next-day stock prices by combining historical market data with news sentiment analysis. The model integrates LSTM-based sequence learning with sentiment-driven directional signals to improve short-term prediction accuracy.
